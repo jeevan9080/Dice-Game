@@ -1,1 +1,1 @@
-# Dice-Game (last updated on 30.11.21)
+# Dice-Game (last updated on 01.12.21)
